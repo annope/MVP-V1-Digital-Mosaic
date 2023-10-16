@@ -1,0 +1,23 @@
+body{
+    background-color: #efaf5a;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav li{
+    margin-right: 60px;
+}
+
+.centered-content{
+    text-align: center;
+    margin-top: 50px;
+}
+
+button{
+    background-color: #D9D9D9;
+}
